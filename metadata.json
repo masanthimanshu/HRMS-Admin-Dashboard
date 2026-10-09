@@ -1,0 +1,6 @@
+{
+  "name": "PulseHR - Enterprise HRMS Admin Console",
+  "description": "Executive administration dashboard for workforce onboarding, multi-branch store cataloging, geo-tagged attendance tracking, and token authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
